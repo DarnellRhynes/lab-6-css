@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <h1>Antonio's Infographic Planet Site</h1>
+  <h1>Darnell's Infographic Planet Site</h1>
   <table id="planets">
     <tr>
       
